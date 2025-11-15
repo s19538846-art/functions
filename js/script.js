@@ -1,6 +1,6 @@
 /////#1//////
 // function  sayName() {
-//     const name = prompt("")
+//     const name = prompt("");
 //     console.log("Привет," + [name] + "!")
 // }
 // sayName()
@@ -38,8 +38,8 @@
 // greetUser("wwww", 6)
 /////#6/////
 // function calculate(a, b, callback) {
-//     const result = a * b
-//     callback(result)
+//     const result = a * b;
+//     callback(result);
 
 // }
 // calculate(3,5,(result) => console.log("Произведение:", result))
